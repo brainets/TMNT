@@ -1,0 +1,8 @@
+numpy
+scipy
+joblib
+xarray
+netCDF4
+h5netcdf
+igraph
+brainconn
